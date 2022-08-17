@@ -1,11 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Silkscreen", cursive;
   text-align: center;
   text-decoration: solid;
   list-style-type: circle;
+}
+
+body {
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 h1 {
   font-size: 4rem;
