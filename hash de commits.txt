@@ -1,0 +1,6 @@
+$ git log --oneline
+e5aa45b (HEAD -> main) Segundo Commit: modificado Index.html y agregado el reset css
+e300b11 commit inicial: index.html y css/style.css
+
+
+token del gitHub: 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
